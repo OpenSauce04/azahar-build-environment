@@ -52,6 +52,8 @@ RUN apt-get install -y \
     glslang-tools \
     # Other libraries
     libsdl2-dev \
+    libxtst-dev \
+    libusb-1.0-0-dev \
     # MXE build tools
     7zip \
     autoconf \
